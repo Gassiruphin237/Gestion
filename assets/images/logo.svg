@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="227.321" height="83.93" viewBox="0 0 227.321 83.93">
+  <g id="Groupe_115" data-name="Groupe 115" transform="translate(-47.679 -23.07)">
+    <g id="santeMobile" transform="translate(47.684 23.077)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="2.539" height="11.633" rx="1.05" transform="translate(30.013 11.523) rotate(-77.21)" fill="#0a8c44"/>
+      <path id="Tracé_1" data-name="Tracé 1" d="M342.721,255.026s-24.656-5.344-27.821-6.306-2.469-5.014-2.469-5.014,13.98-61.241,14.687-64.336,4.492-2.759,4.492-2.759l27.241,6.179c1.884.429,2.191,1.414,2.191,2.011.516-3.988-2.318-4.637-2.318-4.637l-28.94-6.6c-5.031-1.159-5.431,3.217-5.431,3.217L309.046,244.28c-1.269,5.587,2.9,6.376,2.9,6.376s24.882,5.8,28.916,6.561S345.5,253.4,345.5,253.4C345.1,254.562,342.721,255.026,342.721,255.026Z" transform="translate(-308.81 -173.38)" fill="#0a8c44"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="2.95" cy="2.95" r="2.95" transform="translate(17.989 70.564)" fill="#0a8c44"/>
+      <g id="Groupe_1" data-name="Groupe 1" transform="translate(13.685 20.084)" opacity="0.8">
+        <path id="Tracé_2" data-name="Tracé 2" d="M350.673,260.417s1.623-3.895-13.331-22.657c0,0-7.923-5.854-3.657-18.449s15.986-11.233,15.986-11.233,8.074.8,9.819,12.577c0,0-4.1-7.338-12.172-6.4s-8.764,9.662-8.764,9.662-1.976,4.811,3.478,12.438S353.34,250.326,350.673,260.417Z" transform="translate(-332.424 -208.036)" fill="#ed1c24"/>
+        <path id="Tracé_3" data-name="Tracé 3" d="M363.53,222.47s3.565,1.739,6.955,13.157c0,0,8.115-9.587,13.992-6.834s4.44,10.1,4.44,10.1-1.35,7.257-8.422,9.442-15.168,8.6-14.374,11.865c0,0,2.568-4.793,13.024-7.633s11.32-6.022,11.32-6.022,5.535-7.083,1.5-17.342-15.684-3.339-19.6.29a15.7,15.7,0,0,0-8.827-7.019Z" transform="translate(-345.501 -214.104)" fill="#ed1c24"/>
+        <path id="Tracé_4" data-name="Tracé 4" d="M74.412,79.094l-8.839-2-3.292,3.663-.649-7.5-6.219,9.349L56.09,67.67l-4.335,8.793-4.492-.887-.313,1.385,5.147,1.1,2.347-4.162L54.05,86.814l6.59-9.691.388,6.845,4.88-5.234L72.7,80.589Z" transform="translate(-33.424 -48.535)" fill="#ed1c24"/>
+      </g>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="0.533" cy="0.533" r="0.533" transform="translate(32.073 10.268)" fill="#fff"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="0.533" cy="0.533" r="0.533" transform="translate(33.864 10.673)" fill="#fff"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="0.533" cy="0.533" r="0.533" transform="translate(35.655 11.085)" fill="#fff"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="0.533" cy="0.533" r="0.533" transform="translate(37.301 11.456)" fill="#fff"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="0.533" cy="0.533" r="0.533" transform="translate(38.953 11.833)" fill="#fff"/>
+    </g>
+    <g id="Groupe_2" data-name="Groupe 2" transform="translate(12 -17)">
+      <text id="MOBILE" transform="translate(103 80)" fill="#0e8d44" font-size="30" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">MOBILE</tspan></text>
+      <text id="HealthApp" transform="translate(103 111)" fill="#ca374a" font-size="30" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">HealthApp</tspan></text>
+    </g>
+  </g>
+</svg>

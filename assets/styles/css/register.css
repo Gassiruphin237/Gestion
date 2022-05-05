@@ -1,0 +1,18 @@
+.container,.gauche,.droite{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.row{
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.gauche{
+    width: 50%;
+}
+.droite{
+    width: 50%;
+}

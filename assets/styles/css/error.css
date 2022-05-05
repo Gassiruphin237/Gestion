@@ -1,0 +1,14 @@
+.contenue{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contenue img{
+    width: 400px;
+    height: 400px;
+}
+.error{
+    color: red;
+}
